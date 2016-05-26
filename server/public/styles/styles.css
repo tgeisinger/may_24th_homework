@@ -1,0 +1,19 @@
+h1 {
+  text-align:center;
+  color: black;
+  font-family: arial;
+  font-size: 50px;
+}
+
+header {
+  background-image: url("/views/images/playing_cards___spades_by_vaawl-d2kyrwb.jpg");
+  height: 180px;
+
+}
+
+footer{
+  text-align: center;
+  background-color: blue;
+
+
+}
